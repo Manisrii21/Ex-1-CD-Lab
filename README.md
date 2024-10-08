@@ -61,11 +61,7 @@ int main() {
     }
     return 0;
 }
-
-
-
 ```
-
 # OUTPUT
 ![Screenshot 2024-09-25 213626](https://github.com/user-attachments/assets/29230b9f-1cc0-428f-8a05-c66d128aca30)
 
